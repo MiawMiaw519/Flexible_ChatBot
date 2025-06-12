@@ -11,6 +11,7 @@ Required Modifications for Setup :
         GOOGLE_API_KEY=CLÉ
 
         ici la clé est une clé API de google
+        here, the key is a Google API key
 
     2)
         Go to app.py and add the pages you want to register in the root , ex : 
