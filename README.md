@@ -9,8 +9,7 @@ Required Modifications for Setup :
     1)
         Go to the .env file and place an API key, ex :
         GOOGLE_API_KEY=CLÉ
-
-        ici la clé est une clé API de google
+        
         here, the key is a Google API key
 
     2)
